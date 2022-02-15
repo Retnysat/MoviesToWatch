@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.AssemblyInfo.cs
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\bin\Debug\net6.0\FilmyDoObejrzenia.exe
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\bin\Debug\net6.0\FilmyDoObejrzenia.deps.json
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\bin\Debug\net6.0\FilmyDoObejrzenia.runtimeconfig.json
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\bin\Debug\net6.0\FilmyDoObejrzenia.dll
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\bin\Debug\net6.0\ref\FilmyDoObejrzenia.dll
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\bin\Debug\net6.0\FilmyDoObejrzenia.pdb
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.dll
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\ref\FilmyDoObejrzenia.dll
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.pdb
+C:\Users\PC\source\repos\FilmyDoObejrzenia\FilmyDoObejrzenia\obj\Debug\net6.0\FilmyDoObejrzenia.genruntimeconfig.cache
