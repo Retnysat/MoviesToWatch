@@ -19,7 +19,6 @@ namespace MoviesToWatch
             Console.WriteLine("==     v.1.1.0     ==");
             Console.WriteLine("=====================");
             Console.WriteLine();
-
             
             var mainMenu = actionService.GetMenuActionsByMenuName("Main");
 
@@ -55,18 +54,9 @@ namespace MoviesToWatch
                         Console.WriteLine("Chosen action do not exist. Please try again...");
                         break;
 
-
-
                 }
                 Console.Clear();
-
-
             }
-
-
         }
-
-
     }
-
 }
